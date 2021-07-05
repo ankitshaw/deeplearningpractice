@@ -1,5 +1,5 @@
 import cv2 as cv
-image = cv.imread("images/crowd.jpg")
+image = cv.imread("images/faces.jpg")
 
 #1
 #image = cv.cvtColor(image, cv.COLOR_RGB2BGR)
